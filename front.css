@@ -1,0 +1,40 @@
+body {
+    background-position: center center;
+    background-color: #cccccc;
+    background-size: cover;
+    background-image: url("https://cdn.shopify.com/s/files/1/0066/9938/4890/products/Small_Soccer_Ball_Temporary_Tattoo_350x350.jpg?v=1569324198");
+    background-size: 200px;
+    background-repeat: repeat;
+}
+    
+
+#results {
+    width: 700px;
+    background-color: rgba(4, 16, 189, 0.931);
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+
+}
+
+.heading{
+    display: flex;
+    justify-content: center;    
+    color: rgba(255, 255, 255, 0.739);
+    font-size: 50px;
+    background-color: rgb(26, 26, 31);
+}
+   
+
+
+
+
+
+
